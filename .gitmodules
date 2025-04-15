@@ -1,0 +1,3 @@
+[submodule "Carbon-footprint"]
+	path = Carbon-footprint
+	url = https://github.com/chirag079/Carbon-footprint.git
